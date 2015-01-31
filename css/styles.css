@@ -1,0 +1,22 @@
+img{
+	border:2px solid black;
+}
+h1{
+	color:#330000;
+}
+h2{
+	border-bottom:1px solid black;
+}
+li{list-style-type:square;
+}
+html { 
+  background: url("../images/rock.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a.qmss {
+	color: black;
+	}      <!--you use period before class to indicate you are referrencing a class-->
+
